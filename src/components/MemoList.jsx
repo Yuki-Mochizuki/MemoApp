@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
-import Icon from './Icon'
+import Icon from './Icon';
 
 export default function MemoList() {
   return (
